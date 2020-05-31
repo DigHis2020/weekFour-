@@ -2,7 +2,7 @@ Notes
 
 I actually enjoyed learning about Excel. 
 
-I was confused about what kind of file I need to save my Excel work under so I chose .xls because that was what I saved my last file under for this class. 
+I was confused about what kind of file I need to save my Excel work under so I chose .cvs because that was the only file that would upload successfully. 
 
 The RStudio issue 
 
